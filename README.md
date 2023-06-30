@@ -1,4 +1,4 @@
-# Ai(nlp intern) assignment
+# NLP AI intern assignment
 ## Exercise 1 - Named Entity Recognition
 This is the instruction for AI intern assignment at [Golden Owl](https://goldenowl.asia). You will build a simple NER model base on [Spacy](https://spacy.io/usage).
 
