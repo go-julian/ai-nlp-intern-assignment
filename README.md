@@ -8,7 +8,7 @@ You will do “**Resume Shortlisting**”. For example:
 
 <img width="500" alt="Screen Shot 2023-06-30 at 09 42 07" src="https://github.com/go-julian/ai-nlp-intern-assignment/assets/130023825/f6f75869-1a73-45a7-8361-e94170a8ce74">
 
-In this exercise, you need to write a program in Python to predict the name and email in the Resúme. For dataset that includes 200 Resúmes([here](https://drive.google.com/file/d/1zj1IxNIHBcWyqiiTxMP0nnPJcassQNbi/view?usp=sharing))
+In this exercise, you need to write a program in Python to predict the name and email in the Resúme. For dataset that includes 200 Resúmes([here](https://drive.google.com/file/d/1rM5TKOXiUpWodflVEhtm8aAgnhvVzLrf/view?usp=drive_link))
 
 [Tool for labeling](https://tecoholic.github.io/ner-annotator)
 
